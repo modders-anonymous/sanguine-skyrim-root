@@ -3,7 +3,7 @@
 {
   hash_remap: // Legend: h=hash,  m=md5
 [
-]
+],
   file_origins: // Legend: h=hash,  f=fileid, m=modid, g=gameid
 [
 {h:"APJuilXSbC7EYmytemZU3dLtoux7J9RPTyjdPmQAfIE",f:531303,m:75454,g:1704},
