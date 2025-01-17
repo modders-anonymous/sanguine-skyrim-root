@@ -1,6 +1,7 @@
 {
 	isroot: 1,
 	gameuniverse: 'Skyrim', // includes all Skyrim flavours
+	ignore: ['data/meta.ini'],
 	origins: {
 		nexus: {
 			gameids: [1704, 110] // SE, LE
