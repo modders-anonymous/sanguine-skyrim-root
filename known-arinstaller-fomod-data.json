@@ -1037,7 +1037,6 @@
          "name": "None",
          "descr": "If you don't want use the Extra funtions like \"Use Furniture\" for furniture animations.\n\tRecomended for slow machines.\n***REQUIRED EXECUTE \"Clean System\" option in SexLab Framework MCM once installed to avoid CTD, unless you be updating from the previous version, in which just \"Rebuild the Expression Registry\" to fix possible issues with the \"Fix Lips\" option***\n**Also is recomended \"Export the Configuration\" before update the files and \"Import the Configuration\" once the \"Clean System\" end with the update, to be able to keep the configuration**",
          "img": "Fomod\\Logo.png",
-         "files": {},
          "tdescr": {
           "type": 3
          },
@@ -14329,7 +14328,6 @@
          "name": "NO ENB Light Dawnbreaker",
          "descr": "Skip Dawnbreaker.",
          "img": "fomod\\images\\enbl_mod_dawnbreaker.jpg",
-         "files": {},
          "tdescr": {
           "type": 3
          }
@@ -14377,7 +14375,6 @@
          "name": "NO Dawnbreaker DSR option",
          "descr": "Skip DSR option.",
          "img": "fomod\\images\\enbl_mod_dawnbreaker.jpg",
-         "files": {},
          "tdescr": {
           "type": 3
          }
@@ -14837,7 +14834,6 @@
          "name": "NO Embers HD Fireplaces",
          "descr": "DO NOT install Embers HD Fireplaces module patch.",
          "img": "fomod\\images\\enbl_embershd.jpg",
-         "files": {},
          "tdescr": {
           "type": 3
          }
@@ -18280,7 +18276,6 @@
          "name": "None",
          "descr": "None RaceGenderScales.json file for when you have you own file or don't want any.",
          "img": "Fomod\\Logo.png",
-         "files": {},
          "tdescr": {
           "type": 3
          }
@@ -18502,7 +18497,6 @@
          "name": "None",
          "descr": "If you don't want use the Extra funtions like \"Use Furniture\" for furniture animations.\n\tRecomended for slow machines.\n***REQUIRED EXECUTE \"Clean System\" option in SexLab Framework MCM once installed to avoid CTD, unless you be updating from the previous version, in which case don't need any update procedure***\n**Also is recomended \"Export the Configuration\" before update the files and \"Import the Configuration\" once the \"Clean System\" end with the update, to be able to keep the configuration**",
          "img": "Fomod\\Logo.png",
-         "files": {},
          "tdescr": {
           "type": 3
          },
